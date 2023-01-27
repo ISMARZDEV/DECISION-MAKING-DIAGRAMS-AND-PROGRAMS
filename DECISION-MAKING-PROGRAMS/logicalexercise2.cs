@@ -1,4 +1,4 @@
-//Pida dos sueldos y determine el mayor y el menor de ellos;
+//Pida dos sueldos y determine el mayor y el menor de ellos
 
 using System;
 
