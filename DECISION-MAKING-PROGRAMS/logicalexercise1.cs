@@ -1,4 +1,4 @@
-//Pida dos números y determine el mayor de ellos;
+//Pida dos números y determine el mayor de ellos
 
 using System;
 
